@@ -1,0 +1,22 @@
+# Only the reviewed portfolio files may be added to this repository.
+*
+!/examples/
+!/media/
+!/.gitattributes
+!/.gitignore
+!/NOTICE.md
+!/README.md
+!/examples/README.md
+!/examples/audio_cooldown.gd
+!/examples/disjoint_sets.gd
+!/examples/text_measurement.gd
+!/examples/ui_click_mask.gd
+!/media/01-kingdom.jpg
+!/media/02-landscape.jpg
+!/media/03-army.jpg
+!/media/04-battle.jpg
+!/media/05-siege.jpg
+!/media/README.md
+!/media/gameplay-preview.webm
+!/media/tinyswords-trailer-720p.mp4
+!/media/trailer-poster.png
