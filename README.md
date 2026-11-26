@@ -6,7 +6,7 @@
 
 Моя стратегия в реальном времени на **Godot 4 / GDScript**: от первого поселения и добычи ресурсов до большой армии, союзов и осады вражеского замка. Игра сочетает пиксельную графику, развитие экономики и тактическое управление войсками.
 
-**[Страница игры в VK Play →](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/)** · [Трейлер](media/tinyswords-trailer-720p.mp4) · [Посмотреть код](examples/README.md)
+**[Страница игры в VK Play →](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/)** · [Скачать трейлер](https://github.com/Mr-friendly-Spy/TinySwords-Portfolio/raw/refs/heads/main/media/tinyswords-trailer-720p.mp4) · [Посмотреть код](examples/README.md)
 
 Это портфолио проекта: игровые материалы и выбранные фрагменты настоящего кода с пояснениями. Полная игра и её исходный проект здесь не распространяются.
 
@@ -23,13 +23,15 @@
 
 ## Трейлер и геймплей
 
-[![Смотреть трейлер Tiny Swords: Kingdoms](media/trailer-poster.png)](media/tinyswords-trailer-720p.mp4)
+[![Скачать трейлер Tiny Swords: Kingdoms](media/trailer-poster.png)](https://github.com/Mr-friendly-Spy/TinySwords-Portfolio/raw/refs/heads/main/media/tinyswords-trailer-720p.mp4)
 
-**[Смотреть или скачать трейлер — 81 секунда, MP4, 720p](media/tinyswords-trailer-720p.mp4)**
+**[Скачать трейлер — 81 секунда, MP4, 720p](https://github.com/Mr-friendly-Spy/TinySwords-Portfolio/raw/refs/heads/main/media/tinyswords-trailer-720p.mp4)**
 
 Взял готовый русскоязычный трейлер из материалов для VK Play. Для этого репозитория уменьшены разрешение и размер файла; монтаж и звуковая дорожка сохранены по содержанию. Основная часть показывает запись игрового процесса. Вступление и финальная анимация — оформление трейлера.
 
 Также доступно **[короткое игровое превью из оформления VK Play — 9 секунд, WEBM](media/gameplay-preview.webm)**. Это демонстрационный бой на игровой симуляции, записанный для страницы магазина, без звука.
+
+[gameplay-preview.webm](https://github.com/user-attachments/assets/d8895046-20ff-49f3-8632-ed99bd151675)
 
 ## Скриншоты
 
